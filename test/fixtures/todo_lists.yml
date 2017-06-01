@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  notation: MyString
+  string: MyString
+  redact: MyString
+  string: MyString
+  survey: MyString
+  string: MyString
+  eradicate: MyString
+  string: MyString
+
+two:
+  notation: MyString
+  string: MyString
+  redact: MyString
+  string: MyString
+  survey: MyString
+  string: MyString
+  eradicate: MyString
+  string: MyString
